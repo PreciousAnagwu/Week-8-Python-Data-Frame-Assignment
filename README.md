@@ -65,7 +65,7 @@ Main Python libraries used:
 * `matplotlib`
 * `seaborn`
 * `wordcloud`
-(See `requirements.txt` for the full list.)
+* (See `requirements.txt` for the full list.)
 
 ---
 
@@ -81,6 +81,7 @@ You can view the live app here:
 * **CORD-19 Dataset** provided by [Allen Institute for AI](https://www.semanticscholar.org/cord19).
 * Built as part of the **PLP Academy Week 8 Python Assignment**.
 #
+
 
 
 
