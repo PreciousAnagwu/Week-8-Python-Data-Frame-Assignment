@@ -31,7 +31,7 @@ It allows users to search research papers, filter by publication year, view publ
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/PreciousAnagwu/Week-8-Python-Data-Frame-Assignment.git
+    [git clone](https://github.com/PreciousAnagwu/Week-8-Python-Data-Frame-Assignment.git)
    ```
 
 2. **Create a virtual environment (recommended)**
@@ -82,3 +82,4 @@ You can view the live app here:
 * **CORD-19 Dataset** provided by [Allen Institute for AI](https://www.semanticscholar.org/cord19).
 * Built as part of the **PLP Academy Week 8 Python Assignment**.
 #
+
