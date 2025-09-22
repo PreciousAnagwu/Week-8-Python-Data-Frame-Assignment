@@ -31,8 +31,7 @@ It allows users to search research papers, filter by publication year, view publ
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/PreciousAnagwu/Week-8-Python-Data-Frame-Assignment.git
    ```
 
 2. **Create a virtual environment (recommended)**
