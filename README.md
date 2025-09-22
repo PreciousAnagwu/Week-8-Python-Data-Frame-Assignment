@@ -69,10 +69,8 @@ Main Python libraries used:
 ---
 
 ## 🌐 Live Deployment
-
-If deployed to **Streamlit Cloud**, only the **sample dataset** will be used.
 You can view the live app here:
-👉 [Live Demo](https://your-username-streamlit-app-url)
+👉 [Live Demo](https://week-8-python-data-frame-assignment-k2sqv8pqx3hwc5tqswnr7b.streamlit.app/)
 
 
 ---
@@ -82,5 +80,6 @@ You can view the live app here:
 * **CORD-19 Dataset** provided by [Allen Institute for AI](https://www.semanticscholar.org/cord19).
 * Built as part of the **PLP Academy Week 8 Python Assignment**.
 #
+
 
 
